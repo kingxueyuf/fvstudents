@@ -93,16 +93,7 @@
             <!-- /Body -->
             </article>
         <?php endforeach; ?>
-        
-
-        <!-- /Panel -->
-
-        <!-- Separator -->
-        <div class="separator text-muted">
-            <time>25. 3. 2015</time>
-        </div>
-        <!-- /Separator -->
-            
+                    
         <!-- Panel -->
         <article class="panel panel-info panel-outline">
     
