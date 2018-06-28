@@ -19,7 +19,6 @@ class Kid_activity_model extends CI_Model {
 	{
 		$kid_id = $arr['kid_id'];
 		$sql = "select * from kid_activity where kid_id = '".$kid_id. "' order by activity_date DESC";
-		echo $sql;
 		$res = $this->db->query($sql);
 		return $res->result_array();
 	}
