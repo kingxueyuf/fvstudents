@@ -20,6 +20,7 @@
 
     <ul class="nav nav-tabs">
       <li role="presentation" class="active"><a href="#">Home</a></li>
+      <li role="presentation" class="active"><a href="">School</a></li>
     </ul>
 
 
