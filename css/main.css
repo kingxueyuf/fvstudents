@@ -1,5 +1,6 @@
 .container{
     width: 95%;
+    font-family: 'Roboto', sans-serif;
 }
 
 /*Timeline component*/
@@ -93,6 +94,14 @@
     display: none;
 }
 
+.glyphicon {
+    font-size: 120%;
+}
+
+.h6, h6 {
+    font-size: 120%;
+}
+
 img{    
     display: inline;
     width: 25%;
@@ -109,5 +118,13 @@ img{
     img {
         width: 100%;
         margin-bottom: 10px;
+    }
+
+    .glyphicon {
+        font-size: 150%;
+    }
+
+    .h6, h6 {
+        font-size: 150%;
     }
 }
