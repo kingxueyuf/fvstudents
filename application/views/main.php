@@ -92,8 +92,18 @@
                 </div>
             <!-- /Body -->
             </article>
+            <div class="separator text-muted">
+                <time><?php echo $kid_activity_item['activity_date']; ?></time>
+            </div>
         <?php endforeach; ?>
-                    
+        
+
+        <!-- /Panel -->
+
+        <!-- Separator -->
+        
+        <!-- /Separator -->
+            
         <!-- Panel -->
         <article class="panel panel-info panel-outline">
     
