@@ -55,28 +55,28 @@
 
                     <?php 
                         if($kid_activity_item['picture_1_path'] != "") {
-                            echo '<img src="/pic/'.$kid_activity_item['picture_1_path'].'"/>';
+                            echo '<img src="/fvstudents/pic/'.$kid_activity_item['picture_1_path'].'"/>';
                         }
                         if($kid_activity_item['picture_2_path'] != "") {
-                            echo '<img src="/pic/'.$kid_activity_item['picture_2_path'].'"/>';
+                            echo '<img src="/fvstudents/pic/'.$kid_activity_item['picture_2_path'].'"/>';
                         }
                         if($kid_activity_item['picture_3_path'] != "") {
-                            echo '<img src="/pic/'.$kid_activity_item['picture_3_path'].'"/>';
+                            echo '<img src="/fvstudents/pic/'.$kid_activity_item['picture_3_path'].'"/>';
                         }
                         if($kid_activity_item['picture_4_path'] != "") {
-                            echo '<img src="/pic/'.$kid_activity_item['picture_4_path'].'"/>';
+                            echo '<img src="/fvstudents/pic/'.$kid_activity_item['picture_4_path'].'"/>';
                         }
                         if($kid_activity_item['picture_5_path'] != "") {
-                            echo '<img src="/pic/'.$kid_activity_item['picture_5_path'].'"/>';
+                            echo '<img src="/fvstudents/pic/'.$kid_activity_item['picture_5_path'].'"/>';
                         }
                         if($kid_activity_item['picture_6_path'] != "") {
-                            echo '<img src="/pic/'.$kid_activity_item['picture_6_path'].'"/>';
+                            echo '<img src="/fvstudents/pic/'.$kid_activity_item['picture_6_path'].'"/>';
                         }
                         if($kid_activity_item['picture_7_path'] != "") {
-                            echo '<img src="/pic/'.$kid_activity_item['picture_7_path'].'"/>';
+                            echo '<img src="/fvstudents/pic/'.$kid_activity_item['picture_7_path'].'"/>';
                         }
                         if($kid_activity_item['picture_8_path'] != "") {
-                            echo '<img src="/pic/'.$kid_activity_item['picture_8_path'].'"/>';
+                            echo '<img src="/fvstudents/pic/'.$kid_activity_item['picture_8_path'].'"/>';
                         }
                     ?>
 
