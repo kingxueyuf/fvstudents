@@ -20,10 +20,8 @@
 
     <ul class="nav nav-tabs">
       <li role="presentation" class="active"><a href="#">Home</a></li>
-      <li role="presentation" class="active"><a href="">School</a></li>
+      <!-- <li role="presentation" class=""><a href="/fvstudents/index.php/welcome/index?kid_id=00B003">School</a></li> -->
     </ul>
-
-
     
     <!-- Timeline -->
     <div class="timeline">

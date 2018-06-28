@@ -25,7 +25,7 @@ class Welcome extends CI_Controller {
 
 	public function index()
 	{
-		$kid_id = $this->input->get('kid_id');  
+		$kid_id = $this->input->get('kid_id');
 		$arr = array(
 			'kid_id' => $kid_id
 		);
